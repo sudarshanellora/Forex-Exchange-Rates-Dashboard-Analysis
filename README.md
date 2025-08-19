@@ -3,7 +3,7 @@ Problem Statement
 Foreign exchange rate fluctuations directly affect international trade, investments, and risk management. Businesses need clear insights on which currencies are appreciating, depreciating, or highly volatile in order to make informed decisions.
 Approach
 1. Data Collection & Preparation
-- Used a real dataset (daily_forex_rates.csv) with daily rates across multiple currencies.
+- Used a real dataset (daily_forex_rates.csv) with daily rates across multiple currencies from Kaggle
 - Cleaned and transformed data using Pandas (date formatting, normalization, calculations).
 2. Dashboard Development (2 versions)
 - Forex.py → Interactive file-upload version for ad-hoc analysis.
