@@ -31,4 +31,4 @@ Key Insights
 <img width="1740" height="639" alt="Screenshot 2025-08-19 151506" src="https://github.com/user-attachments/assets/371b662b-5f58-4895-8bfe-4278ce75f906" />
 
 
-Delivered a professional, end-to-end analytics solution: - Interactive dashboards for live exploration. - Written report + PowerPoint for management decisions. - Showcased business impact of analytics in finance &amp; risk management.
+End-to-end analytics solution: - Interactive dashboards for live exploration. - Written report + PowerPoint for management decisions. - Showcased business impact of analytics in finance &amp; risk management.
