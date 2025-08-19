@@ -24,7 +24,11 @@ Key Insights
   * Hedge exposure to volatile currencies.
   * Consider safe-haven assets during market uncertainty.
   * Inform global payment & investment strategies.
+<img width="1783" height="719" alt="Screenshot 2025-08-19 151419" src="https://github.com/user-attachments/assets/734011fb-a8ef-4da8-9723-898a11302531" />
+<img width="1770" height="646" alt="Screenshot 2025-08-19 151432" src="https://github.com/user-attachments/assets/c3f7242b-6a83-459c-9607-0a15fc26ce0b" />
+<img width="1790" height="667" alt="Screenshot 2025-08-19 151444" src="https://github.com/user-attachments/assets/4a69e2a2-fa6a-414d-82d3-94e4c4400147" />
+<img width="1783" height="695" alt="Screenshot 2025-08-19 151455" src="https://github.com/user-attachments/assets/a877fa9e-06de-4262-b556-11ddf739d0d2" />
+<img width="1740" height="639" alt="Screenshot 2025-08-19 151506" src="https://github.com/user-attachments/assets/371b662b-5f58-4895-8bfe-4278ce75f906" />
 
-<img width="1740" height="639" alt="Screenshot 2025-08-19 151506" src="https://github.com/user-attachments/assets/1d2a0118-1c5b-4824-9a85-f927375fc4df" />
 
 Delivered a professional, end-to-end analytics solution: - Interactive dashboards for live exploration. - Written report + PowerPoint for management decisions. - Showcased business impact of analytics in finance &amp; risk management.
