@@ -25,5 +25,6 @@ Key Insights
   * Consider safe-haven assets during market uncertainty.
   * Inform global payment & investment strategies.
 
+<img width="1740" height="639" alt="Screenshot 2025-08-19 151506" src="https://github.com/user-attachments/assets/1d2a0118-1c5b-4824-9a85-f927375fc4df" />
 
 Delivered a professional, end-to-end analytics solution: - Interactive dashboards for live exploration. - Written report + PowerPoint for management decisions. - Showcased business impact of analytics in finance &amp; risk management.
